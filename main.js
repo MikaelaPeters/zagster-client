@@ -1,7 +1,7 @@
-alert("Oliver likes CS!")
+alert("Hey you!")
 
 $(updateview)
 
 function updateview() {
-    alert("Using jQuery!")
+    alert("Take a moment to smile! :)")
 }
